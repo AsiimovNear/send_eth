@@ -1,0 +1,2 @@
+your_address:private_key:deposit_address
+your_address:private_key:deposit_address
